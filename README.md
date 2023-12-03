@@ -1,4 +1,4 @@
-# Lem-in
+# Lem-in 🐜
 
 Welcome to **Lem-in**.
 
